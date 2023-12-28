@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/ad.jpg</ImageUrl>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AternateText>Bird</AternateText>
+		<Impressions>15</Impressions>
+		<Keyword>birds</Keyword>
+	</Ad>
+
+</Advertisements>
